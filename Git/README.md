@@ -9,6 +9,8 @@
 <p>Se seu mundo for o mundo inteiro, sua vida seu amor seu lar</p>
 <p>Cuide tudo que for verdadeiro, deixe tudo que não for passar</p>
 
+## Git pull
+
 <style>
   p {
     text-align: center;
