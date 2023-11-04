@@ -6,7 +6,7 @@
 
 ### Git restore baby
 
-<p>Se seu mundo for o mundo inteiro, sua vida seu amor seu lar</p>
+<p style="color:blue">Se seu mundo for o mundo inteiro, sua vida seu amor seu lar</p>
 <p>Cuide tudo que for verdadeiro, deixe tudo que não for passar</p>
 
 <style>
