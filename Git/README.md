@@ -11,6 +11,8 @@
 
 ## Git pull
 
+## Git fetch
+
 <style>
   p {
     text-align: center;
