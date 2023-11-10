@@ -1,0 +1,60 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: aqua;
+  color: bisque;
+  font-weight: 700;
+  font-size: 7em;
+}
+
+.bg {
+  height: 400px;
+  width: 400px;
+  background-image: url("https://i.imgur.com/Lli9Bwjb.jpg");
+  background-color: antiquewhite;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.box {
+  height: 6rem;
+  width: 10rem;
+  margin: 0.8rem;
+  padding: 1rem;
+  background-color: blue;
+  color: #fff;
+  border: 10px solid red;
+  display: inline-block;
+  border-radius: 0.2rem;
+  position: relative;
+}
+
+.boxes {
+  position: relative;
+}
+
+.box:nth-child(1) {
+  position: absolute;
+  top: 30px;
+  left: 100px;
+}
+
+.box:nth-child(2) {
+  position: fixed;
+  top: 15px;
+  left: 30px;
+}
+
+.box:nth-child(n + 2) {
+  
+}
+
+p {
+  font-size: 1.2em;
+}

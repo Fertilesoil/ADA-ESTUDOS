@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+
+.boxes {
+  height: 6rem;
+  width: 10rem;
+  margin: 0.8rem;
+  padding: 1rem;
+  background-color: blue;
+  color: #fff;
+  border: 10px solid red;
+  display: inline-block;
+  border-radius: 0.2rem;
+  position: relative;
+}
