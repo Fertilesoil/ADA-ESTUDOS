@@ -10,8 +10,9 @@ let media = 8.6
 
 if (media >= 7) {
   console.log('Aprovade')
-} else if (media < 7 || media >= 5) {
+} else if (media >= 5) {
   console.log('Recuperação')
 } else {
   console.log('Reprovade')
 }
+
